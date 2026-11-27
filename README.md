@@ -67,6 +67,7 @@
 | **CCNA: Switching, Routing, and Wireless Essentials** | Cisco Networking Academy & IIUM | Feb 2026 | VLANs, Inter-VLAN routing, STP, WLANs |
 | **CCNA: Introduction to Networks** | Cisco Networking Academy | Jun 2024 | Switch & router configuration, IPv4/IPv6 protocols |
 | **Windows Forensics with Belkasoft** | Belkasoft | Mar 2025 | Certificate of Achievement (Score >80%, 6 CPE Credits) |
+| **Introduction to Kali Linux Basics** | Simplilearn SkillUP | Dec 2024 | Certificate of Completion (`Cert #7710780`) |
 | **Java Fundamentals** | Oracle Academy / CLMS | Jun 2024 | Object-oriented programming, data structures, algorithms |
 | **Intermediate Python & Introduction to Python** | DataCamp | Mar – Apr 2025 | NumPy, Pandas DataFrames, Matplotlib (`#39,809,449` & `#39,694,514`) |
 
